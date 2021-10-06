@@ -1,0 +1,25 @@
+#Movie {
+    justify-content: center;
+    flex-direction: row;
+}
+
+#Movie .container {
+    padding: 40px;
+    width: fit-content;
+    height: fit-content;
+    align-items: flex-start;
+}
+
+#Movie img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#Movie h3 {
+    margin: 10px 0;
+}
+
+#Movie button {
+    width: 100px;
+    margin: 10px 0;
+}

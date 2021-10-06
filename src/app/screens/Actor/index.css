@@ -1,0 +1,25 @@
+#Actor {
+    justify-content: center;
+    flex-direction: row;
+}
+
+#Actor .container {
+    padding: 40px;
+    width: fit-content;
+    height: fit-content;
+    align-items: flex-start;
+}
+
+#Actor img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#Actor h3 {
+    margin: 10px 0;
+}
+
+#Actor button {
+    width: 100px;
+    margin: 10px 0;
+}

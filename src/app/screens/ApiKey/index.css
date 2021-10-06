@@ -1,0 +1,9 @@
+#ApiKey {
+    justify-content: center;
+}
+
+#ApiKey .apiKeyButton,
+#ApiKey .apiKeyInput {
+    width: 400px;
+    margin: 10px 0;
+}
